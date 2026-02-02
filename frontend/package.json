@@ -1,5 +1,5 @@
 {
-  "name": "music-play",
+  "name": "frontend",
   "private": true,
   "type": "module",
   "scripts": {
@@ -13,9 +13,9 @@
   "dependencies": {
     "@iconify-json/lucide": "^1.2.87",
     "@iconify-json/simple-icons": "^1.2.68",
-    "@nuxt/ui": "^4.4.0",
-    "nuxt": "^4.3.0",
-    "tailwindcss": "^4.1.18"
+    "@iconify/vue": "^5.0.0",
+    "@mdi/font": "^7.4.47",
+    "nuxt": "^4.3.0"
   },
   "devDependencies": {
     "@nuxt/eslint": "^1.13.0",
